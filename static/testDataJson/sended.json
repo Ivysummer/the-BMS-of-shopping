@@ -1,0 +1,45 @@
+{
+  "resultCode": "0",
+  "resultMsg": "",
+  "data": {
+    "currPage": 2,
+    "total": 88,
+    "pageSize": 10,
+    "collectionMoney": 10,
+    "data": [
+      {
+        "orderId": "1200001",
+        "goods": "孔明灯",
+        "realName": "吴儿童",
+        "phone": "1342567890",
+        "orderDay": "2017-8-3",
+        "orderNum": "10",
+        "money": "9.9",
+        "collectionMoney": 10,
+        "orderStatus": 3
+      },
+      {
+        "orderId": "1300002",
+        "goods": "孔灯",
+        "realName": "钟大佬",
+        "phone": "1342567890",
+        "orderDay": "2017-8-4",
+        "orderNum": "10",
+        "money": "88.9",
+        "collectionMoney": 10,
+        "orderStatus": 3
+      },
+      {
+        "orderId": "1900008",
+        "goods": "孔明灯",
+        "realName": "雷清明",
+        "phone": "1342567890",
+        "orderDay": "2017-8-10",
+        "orderNum": "10",
+        "money": "22.34",
+        "collectionMoney": 10,
+        "orderStatus": 3
+      }
+    ]
+  }
+}

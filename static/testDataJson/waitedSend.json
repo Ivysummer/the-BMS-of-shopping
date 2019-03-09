@@ -1,0 +1,56 @@
+{
+  "resultCode": "0",
+  "resultMsg": "",
+  "data": {
+    "currPage": 2,
+    "total": 88,
+    "pageSize": 10,
+    "collectionMoney": 10,
+    "data": [
+      {
+        "orderId": "1100000",
+        "goods": "吊灯",
+        "realName": "鹦鹉",
+        "phone": "1342567890",
+        "orderDay": "2017-8-1",
+        "orderNum": "10",
+        "money": "33.9",
+        "collectionMoney": 10,
+        "orderStatus": 2
+      },
+      {
+        "orderId": "1200001",
+        "goods": "孔明灯",
+        "realName": "小鸟",
+        "phone": "1342567890",
+        "orderDay": "2017-8-1",
+        "orderNum": "10",
+        "money": "9.9",
+        "collectionMoney": 10,
+        "orderStatus": 2
+      },
+      {
+        "orderId": "1300002",
+        "goods": "孔明灯",
+        "realName": "乌贼",
+        "phone": "1342567890",
+        "orderDay": "2017-8-1",
+        "orderNum": "10",
+        "money": "88.9",
+        "collectionMoney": 10,
+        "orderStatus": 2
+      },
+      {
+        "orderId": "1400003",
+        "goods": "孔明灯",
+        "realName": "钰萍",
+        "phone": "1342567890",
+        "orderDay": "2017-8-1",
+        "orderNum": "10",
+        "money": "99.9",
+        "collectionMoney": 10,
+        "orderStatus": 2
+      }
+    ]
+  }
+}

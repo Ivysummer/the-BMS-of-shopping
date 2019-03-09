@@ -1,0 +1,93 @@
+{
+  "resultCode": "0",
+  "resultMsg": "",
+  "data": {
+    "currPage": 2,
+    "total": 88,
+    "pageSize": 10,
+    "collectionMoney": 10,
+    "data": [
+      {
+        "colleagueId": "001",
+        "orderId": "1100000",
+        "colleagueName": "小吴",
+        "orderDay": "2017-8-1",
+        "money": "33.9",
+        "auditor": "莜莜",
+        "orderStatus": 1
+      },
+      {
+        "colleagueId": "002",
+        "orderId": "1234567",
+        "colleagueName": "小杨",
+        "orderDay": "2017-8-1",
+        "money": "33.9",
+        "auditor": "莜莜",
+        "orderStatus": 2
+      },
+      {
+        "colleagueId": "003",
+        "orderId": "1100000",
+        "colleagueName": "小丽",
+        "orderDay": "2017-8-1",
+        "money": "33.9",
+        "auditor": "莜莜",
+        "orderStatus": 3
+      },
+      {
+        "colleagueId": "004",
+        "orderId": "1100000",
+        "colleagueName": "小猪佩奇",
+        "orderDay": "2017-8-1",
+        "money": "33.9",
+        "auditor": "莜莜",
+        "orderStatus": 4
+      },
+      {
+        "colleagueId": "005",
+        "orderId": "1100000",
+        "colleagueName": "小小",
+        "orderDay": "2017-8-1",
+        "money": "33.9",
+        "auditor": "莜莜",
+        "orderStatus": 5
+      },
+      {
+        "colleagueId": "006",
+        "orderId": "1100000",
+        "colleagueName": "小花",
+        "orderDay": "2017-8-1",
+        "money": "33.9",
+        "auditor": "莜莜",
+        "orderStatus": 1
+      },
+      {
+        "colleagueId": "007",
+        "orderId": "1100000",
+        "colleagueName": "小红",
+        "orderDay": "2017-8-1",
+        "money": "33.9",
+        "auditor": "莜莜",
+        "orderStatus": 2
+      },
+      {
+        "colleagueId": "008",
+        "orderId": "1100000",
+        "colleagueName": "小佳",
+        "orderDay": "2017-8-1",
+        "money": "33.9",
+        "auditor": "莜莜",
+        "orderStatus": 2
+      },
+      {
+        "colleagueId": "009",
+        "orderId": "1100000",
+        "colleagueName": "小明",
+        "orderDay": "2017-8-1",
+        "money": "33.9",
+        "auditor": "莜莜",
+        "orderStatus": 3
+      }
+    ]
+  }
+}

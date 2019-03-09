@@ -1,0 +1,62 @@
+1.userInfo页面
+数据库插入的数据，页面无法显示，提示找不到接口。
+GET http://localhost:3000/api/userInfo?currPage=1&pageSize=10&employName= 404 (Not Found)
+(anonymous) @ vue-resource.esm.js?01ad:1082
+PromiseObj @ vue-resource.esm.js?01ad:196
+xhrClient @ vue-resource.esm.js?01ad:1019
+sendRequest @ vue-resource.esm.js?01ad:1180
+Client @ vue-resource.esm.js?01ad:1143
+Http @ vue-resource.esm.js?01ad:1385
+Http.(anonymous function) @ vue-resource.esm.js?01ad:1416
+get @ global.js?d41c:26
+getList @ userInfo.vue?58d5:235
+mounted @ userInfo.vue?58d5:224
+callHook @ vue.esm.js?65d7:2921
+insert @ vue.esm.js?65d7:4158
+invokeInsertHook @ vue.esm.js?65d7:5960
+patch @ vue.esm.js?65d7:6179
+Vue._update @ vue.esm.js?65d7:2660
+updateComponent @ vue.esm.js?65d7:2788
+get @ vue.esm.js?65d7:3142
+Watcher @ vue.esm.js?65d7:3131
+mountComponent @ vue.esm.js?65d7:2795
+Vue.$mount @ vue.esm.js?65d7:8540
+Vue.$mount @ vue.esm.js?65d7:10939
+Vue._init @ vue.esm.js?65d7:4640
+Vue @ vue.esm.js?65d7:4729
+(anonymous) @ main.js?1c90:22
+(anonymous) @ app.js:2989
+__webpack_require__ @ app.js:689
+fn @ app.js:110
+(anonymous) @ app.js:7127
+__webpack_require__ @ app.js:689
+(anonymous) @ app.js:790
+(anonymous) @ app.js:793
+
+2.new-user页面
+post那里找不到接口addUser
+
+3.出现“请传接口url”的错误提示，说明前端和后台之间的接口没写好。（在前端的api中配好）
+
+4.未实现编辑功能
+弹窗的接口跟新增接口弄乱了（思路要重新整理：是点击后直添加页面，还是路由到有遮罩层？？）
+
+5.删除功能
+只能用get方法请求，而且前后端要一致，否则无法成功。
+
+6.注意：一定要先启动mongod.exe，cmd命令行中输入mongo，再来启动node服务（api根目录下node app）
+
+7.导出功能的实现：
+(1).先安装两个依赖：
+		 npm install -S file-saver xlsx
+
+         npm install -D script-loader
+(2).项目中新建一个文件夹：（vendor---名字任取）
+
+　　　　里面放置两个文件Blob.js和 Export2Excel.js。
+....
+具体参考：https://www.cnblogs.com/Mrfan217/p/6944238.html
+
+8.vuex存储相同数据；用在顶部通栏处，未实现》
+
+./../../src/assets/good1.jpg

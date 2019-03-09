@@ -1,0 +1,144 @@
+{
+  "resultCode": "0",
+  "resultMsg": "",
+  "data": {
+    "currPage": 2,
+    "total": 88,
+    "pageSize": 10,
+    "collectionMoney": 10,
+    "productList": [
+      {
+        "id": 100001,
+        "title": "景观灯",
+        "sku": "1",
+        "unit": "个",
+        "marketPrice": 100,
+        "costPrice": 12,
+        "stock": 32,
+        "auditor": "平安",
+        "createTime": "2017-08-09",
+        "status": "1"
+            
+      },
+      {
+        "id": 100002,
+        "title": "水底灯草坪灯",
+        "auditor": "儿童",
+        "sku": "1",
+        "unit": "个",
+        "marketPrice": 150,
+        "costPrice": 12,
+        "stock": 32,
+        "auditor": "莜莜",
+        "createTime": "2017-08-18",
+        "status": "1"
+            
+      },
+      {
+        "id": 100003,
+        "title": "白炽灯",
+        "auditor": "重阳",
+        "sku": "1",
+        "unit": "个",
+        "marketPrice": 910,
+        "costPrice": 812,
+        "stock": 32,
+        "auditor": "六一",
+        "createTime": "2017-08-18",
+        "status": "1"
+            
+      },
+      {
+        "id": 100004,
+        "title": "条形灯",
+        "auditor": "六一",
+        "sku": "1",
+        "unit": "个",
+        "marketPrice": 10,
+        "costPrice": 912,
+        "stock": 132,
+        "auditor": "莜莜",
+        "createTime": "2017-08-14",
+        "status": "1"
+            
+      },
+      {
+        "id": 100005,
+        "title": "孔明灯",
+        "auditor": "莜莜",
+        "sku": "1",
+        "unit": "个",
+        "marketPrice": 110,
+        "costPrice": 112,
+        "stock": 4132,
+        "auditor": "六一",
+        "createTime": "2017-08-14",
+        "status": "1"
+            
+      },
+      {
+        "id": 100006,
+        "title": "节能灯",
+        "auditor": "莜莜",
+       "sku": "1",
+        "unit": "个",
+        "marketPrice": 110,
+        "costPrice": 112,
+        "stock": 320,
+        "auditor": "莜莜",
+        "createTime": "2017-08-12"
+      },
+      {
+        "id": 100007,
+        "title": "景观灯",
+        "auditor": "莜莜",
+        "sku": "1",
+        "unit": "个",
+        "marketPrice": 130,
+        "costPrice": 132,
+        "stock": 312,
+        "auditor": "莜莜",
+        "createTime": "2017-08-10",
+        "status": "1"
+            
+      },
+      {
+        "id": 100008,
+        "title": "吊灯",
+        "auditor": "莜莜",
+        "sku": "1",
+        "unit": "个",
+        "marketPrice": 140,
+        "costPrice": 142,
+        "stock": 32,
+        "auditor": "莜莜",
+        "createTime": "2017-08-11"
+      },
+      {
+        "id": 100009,
+        "title": "挂灯",
+        "auditor": "莜莜",
+        "sku": "1",
+        "unit": "个",
+        "marketPrice": 510,
+        "costPrice": 512,
+        "stock": 332,
+        "auditor": "莜莜",
+        "createTime": "2017-08-12",
+        "status": "1"
+      },
+      {
+        "id": 1000010,
+        "title": "闪光灯",
+        "auditor": "莜莜",
+        "sku": "1",
+        "unit": "个",
+        "marketPrice": 610,
+        "costPrice": 612,
+        "stock": 342,
+        "auditor": "莜莜",
+        "createTime": "2017-08-13"
+      }
+    ]
+  }
+}

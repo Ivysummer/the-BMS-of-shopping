@@ -1,0 +1,34 @@
+{
+  "resultCode": "0",
+  "resultMsg": "",
+  "data": {
+    "currPage": 2,
+    "total": 88,
+    "pageSize": 10,
+    "collectionMoney": 10,
+    "data": [
+      {
+        "orderId": "1100000",
+        "goods": "孔明灯",
+        "realName": "家要",
+        "phone": "1342567890",
+        "orderDay": "2017-8-1",
+        "orderNum": "10",
+        "money": "33.9",
+        "collectionMoney": 10,
+        "orderStatus": 1
+      },
+      {
+        "orderId": "1900008",
+        "goods": "孔明灯",
+        "realName": "橙橙",
+        "phone": "1342567890",
+        "orderDay": "2017-8-1",
+        "orderNum": "10",
+        "money": "22.34",
+        "collectionMoney": 10,
+        "orderStatus": 1
+      }
+    ]
+  }
+}

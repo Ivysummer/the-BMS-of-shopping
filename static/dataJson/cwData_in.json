@@ -1,0 +1,68 @@
+{
+  "tableList":[
+    {
+      "jilu_date": "2018-04-01",
+      "jilu_input": "111",
+      "pay_name": "广州喜洋洋有限公司",
+      "do_name": "李彩娇",
+      "region": "部门一",
+      "jilu_add": "201805111",
+      "jilu_part": "5555",
+      "jilu_get": 10000
+    }, {
+      "jilu_date": "2018-04-02",
+      "jilu_input": "222",
+      "pay_name": "东软睿道",
+      "do_name": "白展堂",
+      "region": "部门二",
+      "jilu_add": "201805222",
+      "jilu_part": "5555",
+      "jilu_get": 23000
+    }, {
+      "jilu_date": "2018-04-03",
+      "jilu_input": "333",
+      "pay_name": "你行你来呀香飘飘集团",
+      "do_name": "王平安",
+      "region": "部门一",
+      "jilu_add": "201805333",
+      "jilu_part": "5555",
+      "jilu_get": 11000
+    }, {
+      "jilu_date": "2018-04-04",
+      "jilu_input": "444",
+      "pay_name": "方欣科技有限公司",
+      "do_name": "吴儿童",
+      "region": "部门二",
+      "jilu_add": "201805444",
+      "jilu_part": "5555",
+      "jilu_get": 22000
+    }, {
+      "jilu_date": "2018-04-05",
+      "jilu_input": "555",
+      "pay_name": "你行你来呀有限公司",
+      "do_name": "钟大佬",
+      "region": "部门一",
+      "jilu_add": "201805555",
+      "jilu_part": "5555",
+      "jilu_get": 30000
+    }, {
+      "jilu_date": "2018-04-06",
+      "jilu_input": "666",
+      "pay_name": "阳西喜之郎有限公司",
+      "do_name": "吴重阳",
+      "region": "部门一",
+      "jilu_add": "201805666",
+      "jilu_part": "5555",
+      "jilu_get": 21000
+    }, {
+      "jilu_date": "2018-04-07",
+      "jilu_input": "777",
+      "pay_name": "佛山无影脚有限公司",
+      "do_name": "雷清明",
+      "region": "部门三",
+      "jilu_add": "201805777",
+      "jilu_part": "5555",
+      "jilu_get": 31000
+    }
+  ]
+}
